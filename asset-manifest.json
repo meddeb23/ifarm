@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/ifarm/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ifarm/static/js/main.6c28fe55.chunk.js",
-    "main.js.map": "/ifarm/static/js/main.6c28fe55.chunk.js.map",
-    "runtime-main.js": "/ifarm/static/js/runtime-main.db118f17.js",
-    "runtime-main.js.map": "/ifarm/static/js/runtime-main.db118f17.js.map",
-    "static/js/2.8a62f289.chunk.js": "/ifarm/static/js/2.8a62f289.chunk.js",
-    "static/js/2.8a62f289.chunk.js.map": "/ifarm/static/js/2.8a62f289.chunk.js.map",
-    "static/js/3.7f84b18d.chunk.js": "/ifarm/static/js/3.7f84b18d.chunk.js",
-    "static/js/3.7f84b18d.chunk.js.map": "/ifarm/static/js/3.7f84b18d.chunk.js.map",
+    "main.css": "/ifarm/static/css/main.391ab85e.chunk.css",
+    "main.js": "/ifarm/static/js/main.65c0011d.chunk.js",
+    "main.js.map": "/ifarm/static/js/main.65c0011d.chunk.js.map",
+    "runtime-main.js": "/ifarm/static/js/runtime-main.8f2e93b2.js",
+    "runtime-main.js.map": "/ifarm/static/js/runtime-main.8f2e93b2.js.map",
+    "static/css/2.a1596f27.chunk.css": "/ifarm/static/css/2.a1596f27.chunk.css",
+    "static/js/2.233fd95a.chunk.js": "/ifarm/static/js/2.233fd95a.chunk.js",
+    "static/js/2.233fd95a.chunk.js.map": "/ifarm/static/js/2.233fd95a.chunk.js.map",
+    "static/js/3.8ca5f726.chunk.js": "/ifarm/static/js/3.8ca5f726.chunk.js",
+    "static/js/3.8ca5f726.chunk.js.map": "/ifarm/static/js/3.8ca5f726.chunk.js.map",
     "index.html": "/ifarm/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ifarm/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8a62f289.chunk.js.LICENSE.txt": "/ifarm/static/js/2.8a62f289.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ifarm/static/media/logo.6ce24c58.svg"
+    "static/css/2.a1596f27.chunk.css.map": "/ifarm/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.391ab85e.chunk.css.map": "/ifarm/static/css/main.391ab85e.chunk.css.map",
+    "static/js/2.233fd95a.chunk.js.LICENSE.txt": "/ifarm/static/js/2.233fd95a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/ifarm/static/media/pexels-quang-nguyen-vinh-2132250.a8f2eb22.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db118f17.js",
-    "static/js/2.8a62f289.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6c28fe55.chunk.js"
+    "static/js/runtime-main.8f2e93b2.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.233fd95a.chunk.js",
+    "static/css/main.391ab85e.chunk.css",
+    "static/js/main.65c0011d.chunk.js"
   ]
 }
